@@ -12,6 +12,7 @@ These files are formatted as standard [hosts files](https://en.wikipedia.org/wik
 Where to find your hosts file:
 - Mac OS, Linux: `/etc/hosts`
 - Windows: `%SystemRoot%\system32\drivers\etc\hosts`
+- Pi-Hole: Just add the raw files as adlists
 
 ## Attribution
 - Inspiration from https://github.com/marktron/fakenews
