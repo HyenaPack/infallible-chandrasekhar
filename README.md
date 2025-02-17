@@ -16,3 +16,4 @@ Where to find your hosts file:
 
 ## Attribution
 - Inspiration from https://github.com/marktron/fakenews
+- Some sites sourced from https://mediabiasfactcheck.com
