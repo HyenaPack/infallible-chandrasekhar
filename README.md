@@ -1,4 +1,4 @@
-# Neutron
+# Infallible Chandrasekhar
 A collection of websites and hosts that are known to create, spead, promote, or at minimum- allow falsehoods and conspiracy theories.
 
 ## Purpose
